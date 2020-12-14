@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Tapali</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_confirm">Password (confirm)</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_already_register">Username is already registered</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This username/password combination did not work</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_display_name">Display Name</string>
+    <string name="title_activity_chat">Chat List</string>
+    <string name="action_change_title">Change group title</string>
+    <string name="action_invite_user">Add people</string>
+    <string name="invite_username">Username of person to invite</string>
+    <string name="title_activity_chat_invite">Invite User</string>
+    <string name="title_activity_chat_change_title">Change Title</string>
+    <string name="new_chat_title">New chat title</string>
+    <string name="error_invalid_invite_username">Please enter a valid username</string>
+    <string name="error_user_already_in_chat">User is already in chat</string>
+    <string name="error_invalid_chat_title">Please enter a valid chat title</string>
+    <string name="title_activity_settings_menu">Settings</string>
+    <string name="action_save_profile">Save changes</string>
+    <string name="action_logout">Signout</string>
+    <string name="error_profile_update">An error occurred while updating profile</string>
+    <string name="title_activity_create_chat">Create Group</string>
+    <string name="action_create_chat">Create</string>
+    <string name="error_create_chat">An error occurred while creating chat</string>
+</resources>

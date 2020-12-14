@@ -1,0 +1,235 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:2:1-50:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\49c35b69363e69d0970e10d8021cbf1d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b2aebaabfc7825f9d0175f8f9c125397\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\a370380b867ed1b3759e24c24a1199ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\0f949b62025a1c721abb6f2e47d6b690\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c2afe5fd58581e8b45dad9e70891a382\AndroidManifest.xml:17:1-22:12
+MERGED from [com.pkmmte.view:circularimageview:1.1] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\circularimageview-1.1.aar\6a412ee11ccab33d47e701f631bbfc0e\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\1ab62456a3a0fc09d0c8519e585744a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d5e19f395168fa5511aae4b65fcf5f43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8c9d5666558b525ed22aa365d6e8bd0b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\3c342a000016f4a6cfcac28be8d2a121\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4c394473d6ec8d27c13715e092d7b36e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\ace84840540149b9fdab25cae33ba51c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\cd9df7f1b254262ab5f456c7c1a905ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e6a81aeae5047837f7d0e32cbd11ecc6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e83175b11bca1bfa6b20440e1d84bfcc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0238346b8f6bc76631249cfd5c056b84\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8c0e11e0106a954781bb582c5173d980\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\850f6d26d7ee384a3bdc1bc315119b17\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\c031d01c445f6563ef0a9b2580728391\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c8b2511f24c5e6b50c6a165f05135320\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\085ca13e22e01f04bb21338b7fccc1f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\63aa865bfb2ef446707812adf00bcf32\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1a66d701e3cbbd80892e5035280da31b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\828ee112e7ce2ef9937fc2936e527be4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\0f5fcb386556b31acc7086757c33bf4d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a9e6084e79235ff0f2ac5cb99b29965c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7a385ef39214ad879da4b91b39256177\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1d0fd8e197cb26e0fe36588662e66d8e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3547f99651aaec42e1a22aeacac9c0eb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e7d8cdad4f1cbb5053e2983488889165\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\1a6c80c19173c2dec9d24b943af121d4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9f9b17e45e4c73d3d3d561be1486156f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7f8c1c51138452441418b293ee1018c6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bcb9dcd5dfac1c7060de1fb137f81416\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:7:5-48:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\49c35b69363e69d0970e10d8021cbf1d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\49c35b69363e69d0970e10d8021cbf1d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\0f949b62025a1c721abb6f2e47d6b690\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\0f949b62025a1c721abb6f2e47d6b690\AndroidManifest.xml:9:5-20
+MERGED from [com.pkmmte.view:circularimageview:1.1] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\circularimageview-1.1.aar\6a412ee11ccab33d47e701f631bbfc0e\AndroidManifest.xml:11:5-20
+MERGED from [com.pkmmte.view:circularimageview:1.1] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\circularimageview-1.1.aar\6a412ee11ccab33d47e701f631bbfc0e\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\63aa865bfb2ef446707812adf00bcf32\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\63aa865bfb2ef446707812adf00bcf32\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1a66d701e3cbbd80892e5035280da31b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1a66d701e3cbbd80892e5035280da31b\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\63aa865bfb2ef446707812adf00bcf32\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.dajjas.tapali.MainActivity
+ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:13:9-22:20
+	android:label
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:15:13-45
+	android:theme
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.dajjas.tapali.LoginActivity
+ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:23:9-27:40
+	android:label
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:26:13-57
+	android:excludeFromRecents
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:25:13-46
+	android:noHistory
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:24:13-42
+activity#com.dajjas.tapali.ChatActivity
+ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:28:9-31:59
+	android:label
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:30:13-56
+	android:theme
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:29:13-41
+activity#com.dajjas.tapali.ChatInviteActivity
+ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:32:9-35:59
+	android:label
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:34:13-63
+	android:theme
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:33:13-47
+activity#com.dajjas.tapali.ChatChangeTitleActivity
+ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:36:9-39:59
+	android:label
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:38:13-69
+	android:theme
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:37:13-52
+activity#com.dajjas.tapali.SettingsMenuActivity
+ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:40:9-43:59
+	android:label
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:42:13-65
+	android:theme
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:41:13-49
+activity#com.dajjas.tapali.CreateChatActivity
+ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:44:9-47:68
+	android:label
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:46:13-63
+	android:theme
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml:45:13-47
+uses-sdk
+INJECTED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\49c35b69363e69d0970e10d8021cbf1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\49c35b69363e69d0970e10d8021cbf1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b2aebaabfc7825f9d0175f8f9c125397\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b2aebaabfc7825f9d0175f8f9c125397\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\a370380b867ed1b3759e24c24a1199ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\a370380b867ed1b3759e24c24a1199ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\0f949b62025a1c721abb6f2e47d6b690\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\0f949b62025a1c721abb6f2e47d6b690\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c2afe5fd58581e8b45dad9e70891a382\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c2afe5fd58581e8b45dad9e70891a382\AndroidManifest.xml:20:5-44
+MERGED from [com.pkmmte.view:circularimageview:1.1] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\circularimageview-1.1.aar\6a412ee11ccab33d47e701f631bbfc0e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pkmmte.view:circularimageview:1.1] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\circularimageview-1.1.aar\6a412ee11ccab33d47e701f631bbfc0e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\1ab62456a3a0fc09d0c8519e585744a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\1ab62456a3a0fc09d0c8519e585744a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d5e19f395168fa5511aae4b65fcf5f43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d5e19f395168fa5511aae4b65fcf5f43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8c9d5666558b525ed22aa365d6e8bd0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8c9d5666558b525ed22aa365d6e8bd0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\3c342a000016f4a6cfcac28be8d2a121\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\3c342a000016f4a6cfcac28be8d2a121\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4c394473d6ec8d27c13715e092d7b36e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4c394473d6ec8d27c13715e092d7b36e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\ace84840540149b9fdab25cae33ba51c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\ace84840540149b9fdab25cae33ba51c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\cd9df7f1b254262ab5f456c7c1a905ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\cd9df7f1b254262ab5f456c7c1a905ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e6a81aeae5047837f7d0e32cbd11ecc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e6a81aeae5047837f7d0e32cbd11ecc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e83175b11bca1bfa6b20440e1d84bfcc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e83175b11bca1bfa6b20440e1d84bfcc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0238346b8f6bc76631249cfd5c056b84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0238346b8f6bc76631249cfd5c056b84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8c0e11e0106a954781bb582c5173d980\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8c0e11e0106a954781bb582c5173d980\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\850f6d26d7ee384a3bdc1bc315119b17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\850f6d26d7ee384a3bdc1bc315119b17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\c031d01c445f6563ef0a9b2580728391\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\c031d01c445f6563ef0a9b2580728391\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c8b2511f24c5e6b50c6a165f05135320\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c8b2511f24c5e6b50c6a165f05135320\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\085ca13e22e01f04bb21338b7fccc1f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\085ca13e22e01f04bb21338b7fccc1f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\63aa865bfb2ef446707812adf00bcf32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\63aa865bfb2ef446707812adf00bcf32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1a66d701e3cbbd80892e5035280da31b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1a66d701e3cbbd80892e5035280da31b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\828ee112e7ce2ef9937fc2936e527be4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\828ee112e7ce2ef9937fc2936e527be4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\0f5fcb386556b31acc7086757c33bf4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\0f5fcb386556b31acc7086757c33bf4d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a9e6084e79235ff0f2ac5cb99b29965c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a9e6084e79235ff0f2ac5cb99b29965c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7a385ef39214ad879da4b91b39256177\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7a385ef39214ad879da4b91b39256177\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1d0fd8e197cb26e0fe36588662e66d8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1d0fd8e197cb26e0fe36588662e66d8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3547f99651aaec42e1a22aeacac9c0eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3547f99651aaec42e1a22aeacac9c0eb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e7d8cdad4f1cbb5053e2983488889165\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e7d8cdad4f1cbb5053e2983488889165\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\1a6c80c19173c2dec9d24b943af121d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\1a6c80c19173c2dec9d24b943af121d4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9f9b17e45e4c73d3d3d561be1486156f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9f9b17e45e4c73d3d3d561be1486156f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7f8c1c51138452441418b293ee1018c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7f8c1c51138452441418b293ee1018c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bcb9dcd5dfac1c7060de1fb137f81416\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\TOSHIBA 1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bcb9dcd5dfac1c7060de1fb137f81416\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TOSHIBA 1\AndroidStudioProjects\Tapali\app\src\main\AndroidManifest.xml

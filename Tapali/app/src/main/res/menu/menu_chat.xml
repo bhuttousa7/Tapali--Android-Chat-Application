@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ChatActivity">
+    <item
+        android:id="@+id/action_change_title"
+        android:orderInCategory="100"
+        android:title="@string/action_change_title"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_invite_user"
+        android:orderInCategory="101"
+        android:title="@string/action_invite_user"
+        app:showAsAction="never" />
+</menu>
